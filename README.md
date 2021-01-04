@@ -12,7 +12,7 @@ For eg:- Sublime,Brackets, Atom, VSCode,Notepad++
 
 	Link : https://www.php.net/downloads
 
-	Download the latest and stable relase of it.
+	Download the latest and stable release of it.
 
 3) A Local Server which can host the application on the web.
 
